@@ -1,0 +1,52 @@
+body{
+  background-color: #75AFE2;
+  color:black;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 2.0em;
+}
+
+.box-1{
+  text-align: center;
+  background-color:#333333;
+  color: white;
+  width: 50%;
+  margin: auto;
+  border: 5px #F65058 solid;
+  border-width: 3px;
+  padding: 10px;
+}
+
+.input{
+  text-align: center;
+}
+
+.nasa{
+  text-align: center;
+  color: black;
+  margin: 40px;
+}
+
+.button1{
+  background-color: #F6585F ;
+  color: white;
+  padding: 10px 22px;
+  border: none;
+  margin-top: 8px;
+}
+
+.button2{
+  background-color: #F6585F ;
+  color: white;
+  padding: 10px 22px;
+  border: none;
+  margin-top: 30px;
+}
+
+.button1:hover {
+         background: #4D0307;
+    }
+
+.button2:hover {
+         background: #4D0307;
+    }
